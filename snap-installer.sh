@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Installing snap..."
-bash ../package-installer.sh snapd
+apt install snapd -y
