@@ -10,9 +10,10 @@ bash dbeaver-installer.sh
 bash vscode-installer.sh
 bash docker-installer.sh
 bash spotify-installer.sh
-apt-get install terminator -y
-apt-get install arc-theme -y
-apt-get install xclip -y
+bash package-installer.sh terminator
+bash package-installer.sh arc-theme
+bash package-installer.sh xclip
+bash package-installer.sh sct
 snap install postman
 snap install intellij-idea-community --classic --edge
 snap install gitkraken
