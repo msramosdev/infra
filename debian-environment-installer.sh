@@ -14,6 +14,7 @@ bash package-installer.sh terminator
 bash package-installer.sh arc-theme
 bash package-installer.sh xclip
 bash package-installer.sh sct
+bash node-installer.sh
 snap install postman
 snap install intellij-idea-community --classic --edge
 snap install gitkraken
