@@ -11,6 +11,7 @@ bash vscode-installer.sh
 bash docker-installer.sh
 bash spotify-installer.sh
 apt-get install terminator -y
+apt-get install arc-theme -y
 snap install postman
 snap install intellij-idea-community --classic --edge
 snap install gitkraken
